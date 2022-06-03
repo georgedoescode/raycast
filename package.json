@@ -3,8 +3,8 @@
   "type": "module",
   "source": "lib/index.js",
   "exports": {
-    "require": "./dist/foo.cjs",
-    "default": "./dist/foo.modern.js"
+    "require": "./dist/raycast.cjs",
+    "default": "./dist/raycast.modern.js"
   },
   "main": "./dist/raycast.cjs",
   "module": "./dist/raycast.module.js",
