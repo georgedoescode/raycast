@@ -9,7 +9,7 @@
   "main": "./dist/raycast.cjs",
   "module": "./dist/raycast.module.js",
   "unpkg": "./dist/raycast.umd.js",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "directories": {
     "lib": "lib"
