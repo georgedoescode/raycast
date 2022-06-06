@@ -17,7 +17,17 @@
         display: grid;
         place-items: center;
       }
+
+      svg {
+        width: 100vw;
+        height: 100vh;
+      }
     </style>
   </head>
-  <body></body>
+  <body>
+    <script type="module">
+      import { SVG } from 'https://cdn.skypack.dev/@svgdotjs/svg.js';
+      import { createRaycaster, createSegment } from './dist/raycast.modern.js';
+    </script>
+  </body>
 </html>
